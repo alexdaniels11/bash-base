@@ -8,7 +8,7 @@ touch .bash_aliases
 vim .bash_aliases
 ```
 
-## Include New File in .bash_profile
+### Include New File in .bash_profile
 ```shell
 source ~/.bash_aliases
 ```
