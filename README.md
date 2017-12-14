@@ -60,3 +60,8 @@ newProject() {
 	cd js; touch main.js; cd ../;
 }
 ```
+
+### Run Function from Terminal
+```shell
+newProject whatever-the-project-name-is
+```
