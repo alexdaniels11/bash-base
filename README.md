@@ -1,7 +1,13 @@
 # bash-base
 Base bash script setup with aliases and a simple shell script function
 
-### Aliases
+### New file
+```
+touch .bash_aliases
+vim .bash_aliases
+```
+
+### Add Aliases to file
 ```shell
 # Git alias commands
 alias gushom='git push origin master'
@@ -19,7 +25,7 @@ alias gaddcm='git add .;git commit -m'
 alias gpp='git pull; git push'
 ```
 
-### Function
+### Add Function to file
 ```shell
 newProject() {
 	mkdir $1;
