@@ -5,11 +5,12 @@ Base bash script setup with aliases and a simple shell script function
 ```shell
 cd
 touch .bash_aliases
-vim .bash_aliases
 ```
 
 ### Include New File in .bash_profile
 ```shell
+vim .bash_profile
+
 source ~/.bash_aliases
 ```
 
