@@ -10,7 +10,9 @@ touch .bash_aliases
 ### Include New .bash_aliases in .bash_profile
 ```shell
 vim .bash_profile
-
+```
+paste this in .bash_profile
+```shell
 source ~/.bash_aliases
 ```
 
