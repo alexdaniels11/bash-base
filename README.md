@@ -11,7 +11,7 @@ touch .bash_aliases
 ```shell
 vim .bash_profile
 ```
-paste this in .bash_profile
+> paste this in .bash_profile
 ```shell
 source ~/.bash_aliases
 ```
