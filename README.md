@@ -1,6 +1,8 @@
 # bash-base
 Base bash script setup with aliases and a simple shell script function
 
+![screen shot 2017-12-15 at 9 42 08 am](https://user-images.githubusercontent.com/8548846/34046809-4984d5d8-e17c-11e7-9300-cc64092c80cf.png)
+
 ### New .bash_aliases
 ```shell
 cd
