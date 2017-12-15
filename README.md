@@ -64,7 +64,7 @@ newProject() {
 }
 ```
 
-### Run Function in .bash_aliases from Terminal
+### Run Function from .bash_aliases from Terminal
 ```shell
 newProject whatever-the-project-name-is
 ```
