@@ -20,6 +20,9 @@ source ~/.bash_aliases
 
 ### Add Aliases to .bash_aliases
 ```shell
+vim .bash_aliases
+```
+```shell
 # Git alias commands
 alias gushom='git push origin master'
 alias gull='git pull'
