@@ -13,15 +13,17 @@ touch .bash_aliases
 ```shell
 vim .bash_profile
 ```
-> paste this in .bash_profile
+> Hit `i` and paste this in .bash_profile
 ```shell
 source ~/.bash_aliases
 ```
+Hit the `ESC` key and then type `:wq`
 
 ### Add Aliases to .bash_aliases
 ```shell
 vim .bash_aliases
 ```
+> Hit `i` and paste this in .bash_aliases
 ```shell
 # Git alias commands
 alias gushom='git push origin master'
@@ -38,6 +40,7 @@ alias gco='git checkout'
 alias gaddcm='git add .;git commit -m'
 alias gpp='git pull; git push'
 ```
+Hit the `ESC` key and then type `:wq`
 
 ### Add Function to .bash_aliases
 ```shell
