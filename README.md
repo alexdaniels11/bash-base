@@ -1,9 +1,11 @@
 # bash-base
-Base bash script setup with aliases and a simple shell script function
+Base bash script setup with GIT aliases that allow for speedy GIT commands and a simple shell script function that allows you very quickly spin up a simple project. ENJOY!
+
+How the function will start a new project for you:
 
 ![ezgif-4-4a9d0bafbf](https://user-images.githubusercontent.com/8548846/34048441-b35146ae-e181-11e7-9d2c-17fca70f33c3.gif)
 
-What your .bash_aliases file will look like
+What your .bash_aliases file will look like:
 
 ![screen shot 2017-12-15 at 9 42 08 am](https://user-images.githubusercontent.com/8548846/34046809-4984d5d8-e17c-11e7-9300-cc64092c80cf.png)
 
